@@ -4,7 +4,7 @@
 
 - 💼 Linguagens:
 
-Que eu sei um pouco
+Que eu sei um pouco Não é 100% n
 
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" title="Lua"/></code>
