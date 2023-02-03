@@ -16,6 +16,7 @@ DOWNLOAD NATRO MACRO: https://cdn.discordapp.com/attachments/1012613971003584602
 OUTROS: https://cdn.discordapp.com/attachments/909979646966259762/1070849218186575892/Otimizar.zip
 ROBLOX: https://cdn.discordapp.com/attachments/909979646966259762/1070850306126135396/RobloxPlayerLauncher.exe
 AUTO: https://www.autohotkey.com/download/ahk-install.exe
+OPERA: https://cdn.discordapp.com/attachments/909979646966259762/1070857880204496966/OperaGXSetup.exe
 
 
 
