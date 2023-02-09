@@ -2,7 +2,7 @@
 ★ Capybaras Are Cool
 - 💬 My Discord: !     ا Said ا ܢ#2392
 
-Report this Guy Sl4ker#1985
+Report this Guy: Sl4ker#1985
 
 - 💼 Linguagens:
 
