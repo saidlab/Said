@@ -1,6 +1,6 @@
 # ―――――― Said ――――――
 ★ Capivaras são legais
-- 💬 Meu Discord: Said#6522
+- 💬 Meu Discord: !     ا Said ا ܢ#2392
 
 - 💼 Linguagens:
 
